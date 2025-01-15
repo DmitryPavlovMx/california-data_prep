@@ -16,8 +16,9 @@
             "substep_name":"data_prep.ipynb",
             "substep_params":
             {
-                "param1":"None1",
-                "param2":"None2"
+                "seed":42,
+                "test_size1":0.3,
+                 "test_size2": 0.5      
             }
         }
     ]
